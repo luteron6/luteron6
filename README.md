@@ -1,7 +1,7 @@
 ## What's up!
 
 Welcome to my GitHub! I'm probably working on a Hackclub YSWS right now, or studying physics, or Calculus.
-
+I currently run Arch Linux, with Hyprland as my WM. Also VS Code is the best code editor.
 
 
 <!--
