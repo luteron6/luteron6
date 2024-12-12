@@ -1,4 +1,8 @@
-## Hi there 👋
+## What's up!
+
+Welcome to my GitHub! I'm probably working on a Hackclub YSWS right now, or studying physics, or Calculus.
+
+
 
 <!--
 **luteron6/luteron6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
